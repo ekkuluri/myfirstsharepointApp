@@ -31,6 +31,8 @@
     "ajv": "~5.2.2",
     "gulp": "~3.9.1",
     "gulp-spsync-creds": "^2.3.8",
+    "gulp-util": "^3.0.8",
+    "minimist": "^1.2.0",
     "tslint-microsoft-contrib": "~5.0.0"
   }
 }
